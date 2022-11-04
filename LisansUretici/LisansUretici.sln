@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LisansUretici", "LisansUretici\LisansUretici.csproj", "{1D19C8EA-1CAC-478D-BD72-7E7AD2E23712}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LisansSetup", "LisansSetup\LisansSetup.vdproj", "{CCD074E7-856C-4235-9ADB-F7C367BE1DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D19C8EA-1CAC-478D-BD72-7E7AD2E23712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D19C8EA-1CAC-478D-BD72-7E7AD2E23712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D19C8EA-1CAC-478D-BD72-7E7AD2E23712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D19C8EA-1CAC-478D-BD72-7E7AD2E23712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD074E7-856C-4235-9ADB-F7C367BE1DFC}.Debug|Any CPU.ActiveCfg = Debug
+		{CCD074E7-856C-4235-9ADB-F7C367BE1DFC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F550716-48B0-4D34-87F8-294C4D51A74A}
+	EndGlobalSection
+EndGlobal
